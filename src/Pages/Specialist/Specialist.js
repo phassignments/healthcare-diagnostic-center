@@ -1,12 +1,12 @@
-import React from 'react';
-import './Specialist.css';
+import React from "react";
+import "./Specialist.css";
 
 const Specialist = () => {
-    return (
-        <div>
-            <h2>This is Our Specialist</h2>
-        </div>
-    );
+  return (
+    <div>
+      <h2>Kindly Visit Our Home Page</h2>
+    </div>
+  );
 };
 
 export default Specialist;
